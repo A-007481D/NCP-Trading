@@ -1,5 +1,7 @@
+.idea/
 .vendor/
 node_modules/
 .env*
 .env/
-.env.
+env.php
+/vendor/

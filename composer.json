@@ -1,0 +1,20 @@
+{
+    "name": "malik/nexus",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "src\\": "src/"
+
+        }
+    },
+    "authors": [
+        {
+            "name": "A-007481D",
+            "email": "labidabdelmalek@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "ext-pdo": "*"
+    }
+}
